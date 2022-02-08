@@ -10,7 +10,8 @@
           "type": "markdown",
           "state": {
             "file": "nota teste.md",
-            "mode": "preview"
+            "mode": "preview",
+            "source": false
           }
         }
       }
