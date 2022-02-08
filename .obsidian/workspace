@@ -7,8 +7,11 @@
         "id": "709dbc4fb80c4f09",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "nota teste.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "nota teste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,5 +106,7 @@
     "collapsed": true
   },
   "active": "709dbc4fb80c4f09",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "nota teste.md"
+  ]
 }
